@@ -1,2 +1,2 @@
 # Larning
-Learning test repo 
+Learning test repo for devops purpose only 
